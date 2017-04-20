@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97450764600b3f647b96c98b1743ded8, type: 3}
+  m_Name: Table tool
+  m_EditorClassIdentifier: 
+  objectPrefab: {fileID: 114876829136582784, guid: 647c30dbcd8fbc04db0f79af24b3b8c5,
+    type: 2}
